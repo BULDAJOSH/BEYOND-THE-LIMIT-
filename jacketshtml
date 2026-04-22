@@ -37,21 +37,21 @@ select{width:100%;padding:5px;margin-top:5px}
 
 <div class="card">
 <img src="https://i.ebayimg.com/images/g/gKcAAOSwKwNmCqsW/s-l1600.webp">
-<p>winter₱999</p>
+<p>Jacket 1 ₱999</p>
 <select><option>S</option><option>M</option><option>L</option><option>XL</option></select>
 <button>Add</button>
 </div>
 
 <div class="card">
 <img src="https://i.ebayimg.com/images/g/AAUAAOSwLEljYFmv/s-l1600.webp">
-<p>classic ₱1099</p>
+<p>Jacket 2 ₱1099</p>
 <select><option>S</option><option>M</option><option>L</option><option>XL</option></select>
 <button>Add</button>
 </div>
 
 <div class="card">
 <img src="https://www.apetogentleman.com/wp-content/uploads/2021/09/CoolJacketsForMen9-420x420.jpg">
-<p>snap ₱1199</p>
+<p>Jacket 3 ₱1199</p>
 <select><option>S</option><option>M</option><option>L</option><option>XL</option></select>
 <button>Add</button>
 </div>
@@ -59,4 +59,5 @@ select{width:100%;padding:5px;margin-top:5px}
 </div>
 
 </body>
+</html>
 </html>
